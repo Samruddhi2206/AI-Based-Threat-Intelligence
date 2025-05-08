@@ -1,0 +1,2 @@
+country_id,threat_score,alert_hour,alert_day,prediction
+91,87,13,2,Threat
